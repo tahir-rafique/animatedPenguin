@@ -1,2 +1,1 @@
 # By freeCodeCamp
-# Live Preview:
